@@ -1,2 +1,2 @@
 # Theme-Clock
-Clock that pulls in data to display the current time on a 12-hour schedule. Includes a dark mode feature.
+A clock that uses JavaScript to modify the look of the website with a toggleable dark mode. Additionally JavaScript is used to get data that is implemented into the transform property in CSS to create a functioning ticking clock.
